@@ -1,7 +1,7 @@
 import numpy as np
 
-def sumador(a,b):
-    return a+b
+def sumador(b,c):
+    return b+c
 
 print(sumador(3,4))
 
